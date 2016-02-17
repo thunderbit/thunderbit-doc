@@ -1,2 +1,1 @@
-# thunderbit-doc
-Documentation for Thunderbit
+# Documentation for Thunderbit
